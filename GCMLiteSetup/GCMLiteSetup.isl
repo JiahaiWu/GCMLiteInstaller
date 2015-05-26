@@ -4113,7 +4113,7 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<row><td>ISTheme</td><td>InstallShield Blue.theme</td></row>
 		<row><td>ISUSLock</td><td>{4BE5AAB4-B101-45A4-8504-53D1AD218F88}</td></row>
 		<row><td>ISUSSignature</td><td>{438EFC36-4183-4252-809B-1370D7F8D1FC}</td></row>
-		<row><td>ISVisitedViews</td><td>viewAssistant,viewProject,viewSystemSearch,viewAppFiles,viewUI,viewDependencies,viewObjects,viewFeatureFiles,viewISToday,viewRelease</td></row>
+		<row><td>ISVisitedViews</td><td>viewAssistant,viewProject,viewSystemSearch,viewAppFiles,viewUI,viewDependencies,viewObjects,viewFeatureFiles,viewISToday,viewRelease,viewRegistry</td></row>
 		<row><td>Limited</td><td>1</td></row>
 		<row><td>LockPermissionMode</td><td>1</td></row>
 		<row><td>MsiExecCmdLineOptions</td><td/></row>
@@ -4558,7 +4558,6 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S0">Value</col>
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Registry1</td><td>1</td><td>GCMLite</td><td/><td/><td>ISX_DEFAULTCOMPONENT1</td><td>1</td></row>
 		<row><td>Registry2</td><td>2</td><td>Software\Microsoft\Windows\CurrentVersion\App Paths\GCMLite.exe</td><td/><td/><td>GCMLite.exe</td><td>1</td></row>
 		<row><td>Registry3</td><td>2</td><td>Software\Microsoft\Windows\CurrentVersion\App Paths\GCMLite.exe</td><td>Path</td><td>[INSTALLDIR]</td><td>GCMLite.exe</td><td>0</td></row>
 		<row><td>Registry4</td><td>2</td><td>Software\Microsoft\Windows\CurrentVersion\App Paths\GCMLite.exe</td><td/><td>[!gcmlite.exe]</td><td>GCMLite.exe</td><td>0</td></row>
